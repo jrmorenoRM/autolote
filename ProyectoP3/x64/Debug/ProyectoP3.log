@@ -1,0 +1,47 @@
+﻿  ClasesH.cpp
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\MatriculaDeAlumnos2.h(30,21): warning C4101:  'datareader': variable local sin referencia
+  Login.cpp
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\ClasesH.h(29,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\AddUsuario.h(22,1): warning C4353:  se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VerMaestros.h(29,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\EditarUsuarios.h(324,20): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\EliminarUsuarios.h(294,20): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VehiculosEditar.h(28,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VehiculosEditar.h(279,19): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\MatriculaDeAlumnos2.h(30,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\ClasesH.h(29,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VerUsuarios.h(41,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\PromedioFinal.h(29,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\ResultadosLeccion.h(30,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\CHorarios.h(189,19): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\NotasFinales.h(28,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\Login.h(231,21): warning C4101:  'dbpass': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\Login.h(240,20): warning C4101:  'datareader': variable local sin referencia
+  MenuP.cpp
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\Login.h(231,11): warning C4101:  'dbuser': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\AddUsuario.h(22,1): warning C4353:  se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VerMaestros.h(29,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\EditarUsuarios.h(324,20): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\EliminarUsuarios.h(294,20): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VehiculosEditar.h(28,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VehiculosEditar.h(279,19): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\MatriculaDeAlumnos2.h(30,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\ClasesH.h(29,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VerUsuarios.h(41,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\PromedioFinal.h(29,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\ResultadosLeccion.h(30,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\CHorarios.h(189,19): warning C4101:  'datareader': variable local sin referencia
+  VerUsuarios.cpp
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\NotasFinales.h(28,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\AddUsuario.h(22,1): warning C4353:  se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VerMaestros.h(29,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\EditarUsuarios.h(324,20): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\EliminarUsuarios.h(294,20): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VehiculosEditar.h(28,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VehiculosEditar.h(279,19): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\MatriculaDeAlumnos2.h(30,21): warning C4101:  'datareader': variable local sin referencia
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\ClasesH.h(29,21): warning C4101:  'datareader': variable local sin referencia
+  Generando código...
+C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\ProyectoP3\VerUsuarios.h(41,21): warning C4101:  'datareader': variable local sin referencia
+  AddUsuario.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProyectoP3.vcxproj -> C:\Users\TECNICO SISTEMA\Desktop\Proyecto Final\x64\Debug\ProyectoP3.exe

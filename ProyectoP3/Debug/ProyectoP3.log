@@ -1,0 +1,7 @@
+﻿  Login.cpp
+  MenuP.cpp
+C:\Users\TECNICO SISTEMA\Desktop\ProyectoP3\ProyectoP3\AddUsuario.h(21,1): warning C4353:  se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+  Generando código...
+C:\Users\TECNICO SISTEMA\Desktop\ProyectoP3\ProyectoP3\AddUsuario.h(21,1): warning C4353:  se ha utilizado una extensión no estándar: constante 0 como expresión de función. Utilice en su lugar la función intrínseca '__noop'
+  AddUsuario.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ProyectoP3.vcxproj -> C:\Users\TECNICO SISTEMA\Desktop\ProyectoP3\Debug\ProyectoP3.exe
